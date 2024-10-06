@@ -8,6 +8,7 @@
 - 📫 How to reach me: email (gouthamnpedinedi@gmail.com)
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I actually don't know
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
