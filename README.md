@@ -8,4 +8,4 @@
 - 📫 How to reach me: email (gouthamnpedinedi@gmail.com)
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I actually don't know
-<img src="https://github.com/GouthamOfTheNP/snk/raw/output/github-contribution-grid-snake.svg" alt="e" style="max-width: 100%;">
+<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="e" style="max-width: 100%;">
