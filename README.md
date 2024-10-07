@@ -1,5 +1,5 @@
 ## Hi there 👋 ##
-![github_banner.png](https://raw.githubusercontent.com/username/repository/main/banner.png)
+![github_banner.png](https://github.com/GouthamOfTheNP/GouthamOfTheNP/blob/48015e1ce47423eb75692b9a714a7a759c3a02d8/banner.png)
 
 - 🔭 I’m currently working on my security camera application, which I hope to commercialize soon.
 - 🌱 I’m currently learning world history in school and machine learning outside.
