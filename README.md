@@ -1,4 +1,5 @@
 ## Hi there 👋 ##
+![github_banner.png](./banner.png)
 
 - 🔭 I’m currently working on my security camera application, which I hope to commercialize soon.
 - 🌱 I’m currently learning world history in school and machine learning outside.
