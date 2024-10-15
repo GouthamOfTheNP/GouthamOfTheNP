@@ -4,11 +4,10 @@
 # Languages
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" width=40 height=40> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" width=40 height=40> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width=40 height=40> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" width=40 height=40> <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" width=40 height=40> <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" width=40 height=40> <img src="https://github.com/devicons/devicon/blob/master/icons/streamlit/streamlit-original.svg" width=40 height=40> <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" width=40 height=40> <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width=40 height=40>
 
-[![Goutham's GitHub stats](https://github-readme-stats.vercel.app/api?username=gouthamofthenp)](https://github.com/anuraghazra/github-readme-stats)
 
 # User Statistics
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=GouthamOfTheNP&theme=transparent&mode=weekly&card_width=362" alt="GitHub Streak" /></a>&nbsp;&nbsp;&nbsp; <img src="https://github-readme-stats.vercel.app/api?username=gouthamofthenp&show_icons=true&count_private=true">
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=GouthamOfTheNP&theme=transparent&mode=weekly&card_width=362" alt="GitHub Streak" /></a>&nbsp;&nbsp;&nbsp; <img src="https://github-readme-stats.vercel.app/api?username=gouthamofthenp&show_icons=true&count_private=true"> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gouthamofthenp)](https://github.com/anuraghazra/github-readme-stats)
 
 # Other things
 - 🔭 I’m currently working on my security camera application, which I hope to commercialize soon.
