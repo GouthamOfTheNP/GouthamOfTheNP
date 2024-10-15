@@ -20,7 +20,7 @@
   <img alt="github-snake" src="./dist/github-snake.svg" />
 </picture>
 
-![Spotify Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=31fuq2dn4hjvizmd52kyvkqbgdxe) <img src="https://github-readme-stats.vercel.app/api?username=gouthamofthenp&show_icons=true&count_private=true" align="center">
+![Spotify Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=31fuq2dn4hjvizmd52kyvkqbgdxe&width=300) <img src="https://github-readme-stats.vercel.app/api?username=gouthamofthenp&show_icons=true&count_private=true" align="center">
 
 <br/>  
 
