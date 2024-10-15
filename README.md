@@ -6,7 +6,7 @@
 
 # User Statistics
 
-<div align="left"><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=GouthamOfTheNP&theme=transparent&mode=weekly&card_width=4" alt="GitHub Streak" height=110% width=35%></a>&nbsp;&nbsp&nbsp<img src="https://github-readme-stats.vercel.app/api?username=gouthamofthenp&show_icons=true&count_private=true" width=55%></div>
+<div align="left"><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=GouthamOfTheNP&theme=transparent&mode=weekly&card_width=4" alt="GitHub Streak" height=110% width=40%></a>&nbsp;&nbsp&nbsp<img src="https://github-readme-stats.vercel.app/api?username=gouthamofthenp&show_icons=true&count_private=true" width=55%></div>
 
 # Other things
 - 🔭 I’m currently working on my security camera application, which I hope to commercialize soon.
