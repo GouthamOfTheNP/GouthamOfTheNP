@@ -20,4 +20,4 @@
   <img alt="github-snake" src="./dist/github-snake.svg" />
 </picture>
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31fuq2dn4hjvizmd52kyvkqbgdxe&width={width})
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31fuq2dn4hjvizmd52kyvkqbgdxe)
