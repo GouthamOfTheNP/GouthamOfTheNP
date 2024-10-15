@@ -7,7 +7,8 @@
 
 # User Statistics
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=GouthamOfTheNP&theme=transparent&mode=weekly&card_width=362" alt="GitHub Streak" /></a>&nbsp;&nbsp;&nbsp; <img src="https://github-readme-stats.vercel.app/api?username=gouthamofthenp&show_icons=true&count_private=true"> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gouthamofthenp&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=GouthamOfTheNP&theme=transparent&mode=weekly&card_width=362" alt="GitHub Streak" /></a>&nbsp;&nbsp;&nbsp; <img src="https://github-readme-stats.vercel.app/api?username=gouthamofthenp&show_icons=true&count_private=true"> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gouthamofthenp&layout=compact)](https://github.com/anuraghazra/github-readme-stats) <!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 # Other things
 - 🔭 I’m currently working on my security camera application, which I hope to commercialize soon.
