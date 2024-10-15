@@ -2,7 +2,7 @@
 [![github_banner.png](https://github.com/GouthamOfTheNP/GouthamOfTheNP/blob/48015e1ce47423eb75692b9a714a7a759c3a02d8/banner.png)](https://fesls.square.site/)
 
 # Languages
-<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg">
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" width=40 height=40>
 
 # Other things
 - 🔭 I’m currently working on my security camera application, which I hope to commercialize soon.
