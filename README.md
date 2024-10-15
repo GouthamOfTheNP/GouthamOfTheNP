@@ -1,4 +1,3 @@
-## Hi there 👋 ##
 [![github_banner.png](https://github.com/GouthamOfTheNP/GouthamOfTheNP/blob/48015e1ce47423eb75692b9a714a7a759c3a02d8/banner.png)](https://fesls.square.site/)
 
 # Languages
