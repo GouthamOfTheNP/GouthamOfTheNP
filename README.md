@@ -4,6 +4,8 @@
 # Languages
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" width=40 height=40> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" width=40 height=40> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width=40 height=40> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" width=40 height=40> <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" width=40 height=40> <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" width=40 height=40> <img src="https://github.com/devicons/devicon/blob/master/icons/streamlit/streamlit-original-wordmark.svg" width=40 height=40> <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original-wordmark.svg" width=40 height=40>
 
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=GouthamOfTheNP&theme=transparent&mode=weekly" alt="GitHub Streak" /></a>
+
 # Other things
 - 🔭 I’m currently working on my security camera application, which I hope to commercialize soon.
 - 🌱 I’m currently learning world history in school and machine learning outside.
@@ -20,7 +22,9 @@
   <img alt="github-snake" src="./dist/github-snake.svg" />
 </picture>
 
-![Spotify Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=31fuq2dn4hjvizmd52kyvkqbgdxe) <img src="https://github-readme-stats.vercel.app/api?username=gouthamofthenp&show_icons=true&count_private=true">
+![Spotify Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=31fuq2dn4hjvizmd52kyvkqbgdxe) 
+
+<img src="https://github-readme-stats.vercel.app/api?username=gouthamofthenp&show_icons=true&count_private=true" align center>
 
 <br/>  
 
