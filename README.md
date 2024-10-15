@@ -21,7 +21,7 @@
 </picture>
 
 ![Spotify Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=31fuq2dn4hjvizmd52kyvkqbgdxe)</div>
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=rishavanand&show_icons=true&count_private=true" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=gouthamofthenp&show_icons=true&count_private=true" align="center" /></div>  
 
 <br/>  
 
