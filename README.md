@@ -24,10 +24,8 @@
   <img alt="github-snake" src="./dist/github-snake.svg" />
 </picture>
 
-![Spotify Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=31fuq2dn4hjvizmd52kyvkqbgdxe) 
-
-<br/>  
-
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=gouthamofthenp&&style=flat-square" align="center" />
-</div>  
+  <a href="https://spotify-recently-played-readme.vercel.app/api?user=31fuq2dn4hjvizmd52kyvkqbgdxe">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31fuq2dn4hjvizmd52kyvkqbgdxe" alt="Spotify Recently Played" />
+  </a>
+</div>
