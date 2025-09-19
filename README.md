@@ -6,7 +6,7 @@
 
 # User Statistics
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=GouthamOfTheNP&theme=transparent&mode=weekly&card_width=362)](https://git.io/streak-stats)&nbsp;&nbsp;&nbsp; <img src="https://github-readme-stats.vercel.app/api?username=gouthamofthenp&show_icons=true&count_private=true">
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=GouthamOfTheNP&theme=transparent&mode=weekly&card_width=362" alt="GitHub Streak" /></a>&nbsp;&nbsp;&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=gouthamofthenp&show_icons=true&count_private=true">
 
 # Other things
 - 🔭 I’m currently working on my Plugin Web Scraper application.
